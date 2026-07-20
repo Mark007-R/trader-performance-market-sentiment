@@ -1,4 +1,4 @@
-# Trader Performance vs Market Sentiment (Fear & Greed Analysis)
+# Crypto-Sentiment-Analysis
 
 ## Overview
 In this project, I analyzed how Bitcoin market sentiment influences trader behavior
